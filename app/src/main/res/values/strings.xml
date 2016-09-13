@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">测试</string>
+    <string name="user">用户名</string>
+    <string name="pass">密  码</string>
+    <string name="login">登陆</string>
+    <string name="title_activity_tab_menu">TabMenu</string>
+</resources>
